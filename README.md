@@ -4,16 +4,18 @@
 LIS 2360:  Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+June 2, 2017
 
 ## Student Name:  
-(First and Last Name)
+Stephen Keating
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+This project is focused on giving students a basic run down of how to use the version control system Gitub 
+when it is paired with the cloud 9 development environment. 
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned how to initialize and configure github repositories.
+2. I learned how to add files to a local repository and commit the changes made to those files. 
+3. I learned how to push files up to the remote repository from the local repository along with
+   best practices and appropriate frequencies.
 

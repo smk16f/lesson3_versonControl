@@ -13,6 +13,9 @@ Stephen Keating
 This project is focused on giving students a basic run down of how to use the version control system Gitub 
 when it is paired with the cloud 9 development environment. 
 
+## View Project:
+https://smk16f.github.io/lesson3_versonControl/#topic3
+
 ## Lessons Learned in the Assignment:
 1. I learned how to initialize and configure github repositories.
 2. I learned how to add files to a local repository and commit the changes made to those files. 
